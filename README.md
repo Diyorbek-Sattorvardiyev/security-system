@@ -20,7 +20,7 @@ Bu loyiha yuzni aniqlash va tanish uchun ishlatiladigan Telegram bot hisoblanadi
 
 1. Loyihani klonlash:
 ```sh
-  git clone https://github.com/username/repository.git
+https://github.com/Diyorbek-Sattorvardiyev/security-system.git
   cd repository
 ```
 
