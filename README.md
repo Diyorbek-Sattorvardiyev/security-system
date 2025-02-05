@@ -35,7 +35,7 @@ https://github.com/Diyorbek-Sattorvardiyev/security-system.git
 
 1. Botni ishga tushirish:
 ```sh
-  python main.py
+  python kamera.py
 ```
 
 2. Kamera orqali yuzlarni aniqlash va natijalarni Telegram bot orqali yuborish boshlanadi.
