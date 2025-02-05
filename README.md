@@ -47,7 +47,7 @@ https://github.com/Diyorbek-Sattorvardiyev/security-system.git
 - Aniqlangan jarayon videosi saqlanib, admin Telegram'iga yuboriladi.
 
 ## 📌 Muallif
-- **Diyorbek** (GitHub: [your-profile](https://github.com/your-profile))
+- **Diyorbek** (GitHub: https://github.com/Diyorbek-Sattorvardiyev)
 
 ## 📝 Litsenziya
 Bu loyiha ochiq manba bo‘lib, istalgancha o‘zgartirish va foydalanish mumkin.
